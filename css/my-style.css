@@ -38,10 +38,10 @@ body {
 
 
 table {
-    border: 40px solid   #e74c3c;
+    border: 20px solid   #e74c3c;
     outline-color: #e74c3c;
     outline-style: dotted;
-    box-sizing: border-box;
+
 
 
 }
