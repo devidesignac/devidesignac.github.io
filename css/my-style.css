@@ -39,9 +39,14 @@ body {
 
 table {
     border: 40px solid   #e74c3c;
+    outline-color: #e74c3c;
+    outline-style: dotted;
 
 
 }
+
+
+
 
 td{
     padding: 10px;
@@ -72,6 +77,14 @@ td{
     background-color:   #aab7b8 ;
     padding:10px;
     border-radius: 5px;
+
+}
+
+h6 {
+
+    color:  #884ea0;
+    
+
 
 }
 
@@ -145,7 +158,12 @@ address {
 }
 
 
-
+.line {
+    width: 100%;
+    height: 2px;
+    box-sizing: border-box;
+     background-color: #17a589;
+}
 
 .footer{
  width: 100%;
