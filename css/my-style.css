@@ -38,9 +38,9 @@ body {
 
 
 table {
-    border: 40px solid  #e74c3c;
+
     outline-color: #e74c3c;
-    outline-style: dotted;
+    outline-style: double;
 
 
 
