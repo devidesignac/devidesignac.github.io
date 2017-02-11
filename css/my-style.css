@@ -41,6 +41,7 @@ table {
     border: 40px solid   #e74c3c;
     outline-color: #e74c3c;
     outline-style: dotted;
+    box-sizing: border-box;
 
 
 }
@@ -163,6 +164,7 @@ address {
     height: 2px;
     box-sizing: border-box;
      background-color: #17a589;
+
 }
 
 .footer{
