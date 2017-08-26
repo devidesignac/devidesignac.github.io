@@ -40,9 +40,9 @@ body {
 table {
 
     outline-color: #e74c3c;
-    outline-style: double;
-    outline-style: dotted;
-    border: 5px solid red;
+    
+    
+    border: 20px solid #4256f4;
 
 
 
@@ -124,7 +124,7 @@ p    {
     color: #000; 
    font-family: "Times New Roman", Times, serif;
    
-   font-size: 18px;
+   font-size: 14px;
     text-align: left;     
     
     
@@ -135,13 +135,13 @@ p.normal {
 
     color: #c11c1e;
     font-family: "Times New Roman" Times, serif; 
-    font-size: 18px; 
+    font-size: 14px; 
  }
 
 ol.points {
     color:#000;
     font-family: "Times New Roman", Times, serif;
-    font-size: 18px; 
+    font-size: 14px; 
     font-weight: normal;
     margin-top: 10px;
     margin-left: 10px;
@@ -149,12 +149,11 @@ ol.points {
 }
 
 ul {
-    font-size: 18px;
+    font-size: 14px;
 }
 
 address {
-    color:  #0b5345;
- 
+    color:  #0b5345; 
     font-weight: bold;
     font-size: 16px;
     font-style: italic;
